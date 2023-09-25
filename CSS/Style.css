@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    background-color: c0c0c0;
+}
+
+h1 {
+    font-size: 2rem;
+    color: red;
+}
+
+h2 {
+    font-size: 4rem;
+    color: blue;
+}
+
+h3 {
+    font-size: 3rem;
+    color: green;
+}
